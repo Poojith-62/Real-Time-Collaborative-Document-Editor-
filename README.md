@@ -13,10 +13,13 @@ DURATION: 8 weeks.
 
 MENTOR: NEELA SANTHOSH
 
+
+
 Description:
 
 This project was developed as part of my Full Stack Web Development Internship.
 It is a Google Document like application that allows multiple users to edit the same document simultaneously in real-time.
+
 
 Technologies Used:
 
@@ -28,6 +31,8 @@ Database: MongoDB.
 
 Editor: Visual Studio Code.
 
+
+
 Features:
 
 1.Real-time synchronization of edits across multiple users.
@@ -37,6 +42,7 @@ Features:
 3.Node.js + Express + Socket.IO backend for real-time communication.
 
 4.Automatic saving and reloading of documents.
+
 
 
 How It Works:
@@ -51,6 +57,10 @@ How It Works:
 
 
 OUTPUT:
+
+<img width="1361" height="648" alt="Image" src="https://github.com/user-attachments/assets/21d85f04-93d3-4444-bfc8-098456bf91c4" />
+
+
 
 AUTHOR:
 
