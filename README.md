@@ -1,73 +1,63 @@
-# Getting Started with Create React App
+# Real-Time Collaborative Document Editor
 
 
-name
+COMPANY: CODTECH IT SOLUTIONS.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NAME: KANDULA.NITHYA POOJITH
 
-## Available Scripts
+INTERN ID: CT08DG912
 
-In the project directory, you can run:
+DOMAIN: Full Stack Web Development.
 
-### `npm start`
+DURATION: 8 weeks.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+MENTOR: NEELA SANTHOSH
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Description:
 
-### `npm test`
+This project was developed as part of my Full Stack Web Development Internship.
+It is a Google Document like application that allows multiple users to edit the same document simultaneously in real-time.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Technologies Used:
 
-### `npm run build`
+Frontend: HTML, CSS, JavaScript, React.js, Quill.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Backend: Node.js, Express.js, Socket.IO.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Database: MongoDB.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Editor: Visual Studio Code.
 
-### `npm run eject`
+Features:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1.Real-time synchronization of edits across multiple users.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2.Clean, responsive React.js frontend with Quill Editor.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3.Node.js + Express + Socket.IO backend for real-time communication.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4.Automatic saving and reloading of documents.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+How It Works:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1.Each document has a unique ID.
 
-### Code Splitting
+2.When users open the same link, they can collaborate in real-time.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3.Changes are saved automatically to MongoDB.
 
-### Analyzing the Bundle Size
+4.Users can reopen documents later and continue editing.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+OUTPUT:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+AUTHOR:
 
-### Advanced Configuration
+https://github.com/Poojith-62
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
